@@ -8,8 +8,4 @@ You would print four of the rings/retainers, or 3 rings and one of the phone hol
 
 
 
-The ring goes on the leg first to provide a spacer and then the retainer.  
-
-I'll include some photos when I get a chance.   The phone/tablet holder replaces the ring but still uses the retainer while the
-
-I'm learning Fusion 36 modeling.  This is a storage place for some design changes I've made to the Ombonad Dune Weaver sand able
+The ring goes on the leg first to provide a spacer and then the retainer.  I'll include some photos when I get a chance.   The phone/tablet holder replaces the ring but still uses the retainer,
