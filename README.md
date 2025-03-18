@@ -3,7 +3,7 @@ This is a phone mount I've designed.   It's using an old phone mount for a car t
 
 ![image](https://github.com/user-attachments/assets/da1fa138-e516-4726-89ae-195d1055d6a7)
 
-
+You would print four of the rings/retainers, or 3 rings and one of the phone holder/ball joint/bottom plug (to hold the swivel ball on)
 
 
 
