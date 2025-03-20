@@ -1,11 +1,13 @@
+![Screenshot 2025-03-20 025636](https://github.com/user-attachments/assets/538317e2-68e6-4297-845d-1965ed713f40)
 
-This is a phone mount I've designed.   It's using an old phone mount for a car that had a 17 mm ball attachment.   This seemed like a good chance to learn the sweep/revolve tools.   The mount slips over one of the legs and works with the retainer I designed to keep the table centered beween the legs:
+Not much to say, there is a redesigned platform for the arm (the helicopter landing pad), a motor guard (these are not in correct orientation relative to the rest of the parts).
 
-![image](https://github.com/user-attachments/assets/da1fa138-e516-4726-89ae-195d1055d6a7)
+I've designed a retainer for the legs to keep the table centered.
 
-You would print four of the rings/retainers, or 3 rings and one of the phone holder/ball joint/bottom plug (to hold the swivel ball on)
+There a new rim and a system of clips to put a 3d printed translucent led diffuser.
 
+Stand project box to hold pi zero 2w and mks dlc32, clips to mount underneath the table
 
+Phone mount that replaces the spacer on the retaining clip, uses an old phone mount I had that took a 17 mm ball
 
-
-The ring goes on the leg first to provide a spacer and then the retainer.  I'll include some photos when I get a chance.   The phone/tablet holder replaces the ring but still uses the retainer,
+The new rim seperator is mostly aesthetics.  I added a dividing groove to hide the expanse of plastic and champhered the edges where the joints are.  Everything is designed to have minimal gap at the joints.    
