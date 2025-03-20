@@ -10,4 +10,9 @@ Stand project box to hold pi zero 2w and mks dlc32, clips to mount underneath th
 
 Phone mount that replaces the spacer on the retaining clip, uses an old phone mount I had that took a 17 mm ball
 
-The new rim seperator is mostly aesthetics.  I added a dividing groove to hide the expanse of plastic and champhered the edges where the joints are.  Everything is designed to have minimal gap at the joints.    
+The new rim seperator is mostly aesthetics.  I added a dividing groove to hide the expanse of plastic and champhered the edges where the joints are.  Everything is designed to have minimal gap at the joints.  
+
+![Screenshot 2025-03-20 030534](https://github.com/user-attachments/assets/1ad7abdc-57c3-40e7-8a55-d895f71c80b1)
+
+To some extent these are mostly exercises in learning Fusion 360 ... as originally built/designed by Tuan of Dune Weaver https://github.com/tuanchris/dune-weaver everything worked fine.
+
